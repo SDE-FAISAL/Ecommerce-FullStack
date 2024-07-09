@@ -11,3 +11,8 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 ![5](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/38d5b62f-4245-4db5-a9bc-422f67c9e31d)
 ![6](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/17451ac8-e5fe-48c2-9c55-82de96fff0d5)
 ![7](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/6493f1f3-c852-446c-b455-2826b95b54a5)
+![8](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/dc288c54-0bc7-4391-a047-94840d26f41f)
+![9](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/1cb0e86a-ed18-4b61-b9b6-27ec9b208eff)
+![10](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/f5436c30-adf5-4177-860f-800a4f89d810)
+![11](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/0dead001-0a22-4852-bdd9-0c0db885292e)
+![12](https://github.com/SDE-FAISAL/Ecommerce-FullStack/assets/77503199/bed5349c-7a49-4485-8254-2020c5367657)
